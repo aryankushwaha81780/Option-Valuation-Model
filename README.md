@@ -2,6 +2,7 @@
 ## Authors
 - [Aryan Kushwaha](https://github.com/aryankushwaha81780) and
  [Divyansh Bansal](https://github.com/bansaldiv)
+---
 ## Overview
 
 This repository, **option-valuation-model**, delivers an end-to-end **option pricing, risk analytics, and simulation framework** aligned with institutional trading and risk-management workflows. The model integrates analytical valuation, hedging intelligence, scenario stress testing, and Monte Carlo simulation to provide a forward-looking and decision-oriented view of option behavior.
